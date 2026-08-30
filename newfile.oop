@@ -4,11 +4,16 @@ What you just built
 Your Laptop
      |
 
-| HTTP :80
-     ↓
-Amazon EC2
-     |↓
-Nginx
-     |↓ /usr/share/nginx/html/index.html
+	| 
 
-///////////
+			HTTP :80
+     ↓							
+Amazon				 EC2			
+     |				↓
+Nginx	
+     |		↓ /
+
+     usr/
+
+     share/nginx/html/index.html
+////
