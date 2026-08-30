@@ -6,18 +6,9 @@ Your Laptop
 
 | HTTP :80
      ↓
-
-
-
 Amazon EC2
-     |
-
-
-↓
+     |↓
 Nginx
-     |
-
-↓
-/usr/share/nginx/html/index.html
+     |↓ /usr/share/nginx/html/index.html
 
 ///////////
