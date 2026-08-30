@@ -1,17 +1,23 @@
-newfile
-You should see:
-
 Hello from my Amazon Linux server!
 
 What you just built
 Your Laptop
      |
-     | HTTP :80
+
+| HTTP :80
      ↓
+
+
+
 Amazon EC2
      |
-     ↓
+
+
+↓
 Nginx
      |
-     ↓
+
+↓
 /usr/share/nginx/html/index.html
+
+///////////
